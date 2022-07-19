@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Fenil Patel
+- 🌱 I’m currently learning Java, SQL & JavaScript
