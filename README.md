@@ -8,7 +8,7 @@ Most of my production experience has been in **Finance & AML** and **US Healthca
 🌱 Currently going deeper on distributed systems, cloud observability, and system design<br>
 💼 Open to freelance / contract work<br>
 📫 Reach me at **fenilbabariya.fb@gmail.com**<br>
-🔗 Resume & portfolio: *(add your live GitHub Pages link here once deployed)*<br>
+🔗 Resume & portfolio: *https://fbpatel003.github.io/Portfolio-Website*<br>
 Check it out ☝🏻️
 
 # 💻 Tech Stack:
